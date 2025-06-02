@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManager", "TaskManager.csproj", "{9CBCC39C-24B4-43F4-BE20-EB1AB36C08A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tasks.DataAccess", "Tasks.DataAccess\Tasks.DataAccess.csproj", "{A6F5083E-F5F4-4A5A-BFCF-26431B77A092}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tasks.services", "Tasks.services\Tasks.services.csproj", "{EE2D2624-1232-4C47-BBEB-FD9EEED9AE37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CBCC39C-24B4-43F4-BE20-EB1AB36C08A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CBCC39C-24B4-43F4-BE20-EB1AB36C08A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CBCC39C-24B4-43F4-BE20-EB1AB36C08A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CBCC39C-24B4-43F4-BE20-EB1AB36C08A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6F5083E-F5F4-4A5A-BFCF-26431B77A092}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6F5083E-F5F4-4A5A-BFCF-26431B77A092}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6F5083E-F5F4-4A5A-BFCF-26431B77A092}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6F5083E-F5F4-4A5A-BFCF-26431B77A092}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE2D2624-1232-4C47-BBEB-FD9EEED9AE37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE2D2624-1232-4C47-BBEB-FD9EEED9AE37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE2D2624-1232-4C47-BBEB-FD9EEED9AE37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE2D2624-1232-4C47-BBEB-FD9EEED9AE37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

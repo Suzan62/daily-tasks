@@ -1,0 +1,10 @@
+D:\TatvaSoftInternship\TaskManager\Tasks.DataAccess\bin\Debug\net8.0\Tasks.DataAccess.deps.json
+D:\TatvaSoftInternship\TaskManager\Tasks.DataAccess\bin\Debug\net8.0\Tasks.DataAccess.runtimeconfig.json
+D:\TatvaSoftInternship\TaskManager\Tasks.DataAccess\bin\Debug\net8.0\Tasks.DataAccess.dll
+D:\TatvaSoftInternship\TaskManager\Tasks.DataAccess\bin\Debug\net8.0\Tasks.DataAccess.pdb
+D:\TatvaSoftInternship\TaskManager\Tasks.DataAccess\obj\Debug\net8.0\Tasks.DataAccess.csproj.AssemblyReference.cache
+D:\TatvaSoftInternship\TaskManager\Tasks.DataAccess\obj\Debug\net8.0\Tasks.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\TatvaSoftInternship\TaskManager\Tasks.DataAccess\obj\Debug\net8.0\Tasks.DataAccess.csproj.CoreCompileInputs.cache
+D:\TatvaSoftInternship\TaskManager\Tasks.DataAccess\obj\Debug\net8.0\Tasks.DataAccess.dll
+D:\TatvaSoftInternship\TaskManager\Tasks.DataAccess\obj\Debug\net8.0\Tasks.DataAccess.pdb
+D:\TatvaSoftInternship\TaskManager\Tasks.DataAccess\obj\Debug\net8.0\Tasks.DataAccess.genruntimeconfig.cache

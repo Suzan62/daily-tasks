@@ -1,0 +1,13 @@
+D:\TatvaSoftInternship\TaskManager\Tasks.services\bin\Debug\net8.0\Tasks.services.deps.json
+D:\TatvaSoftInternship\TaskManager\Tasks.services\bin\Debug\net8.0\Tasks.services.dll
+D:\TatvaSoftInternship\TaskManager\Tasks.services\bin\Debug\net8.0\Tasks.services.pdb
+D:\TatvaSoftInternship\TaskManager\Tasks.services\obj\Debug\net8.0\Tasks.services.GeneratedMSBuildEditorConfig.editorconfig
+D:\TatvaSoftInternship\TaskManager\Tasks.services\obj\Debug\net8.0\Tasks.services.csproj.CoreCompileInputs.cache
+D:\TatvaSoftInternship\TaskManager\Tasks.services\obj\Debug\net8.0\Tasks.services.dll
+D:\TatvaSoftInternship\TaskManager\Tasks.services\obj\Debug\net8.0\refint\Tasks.services.dll
+D:\TatvaSoftInternship\TaskManager\Tasks.services\obj\Debug\net8.0\Tasks.services.pdb
+D:\TatvaSoftInternship\TaskManager\Tasks.services\obj\Debug\net8.0\ref\Tasks.services.dll
+D:\TatvaSoftInternship\TaskManager\Tasks.services\bin\Debug\net8.0\Tasks.DataAccess.dll
+D:\TatvaSoftInternship\TaskManager\Tasks.services\bin\Debug\net8.0\Tasks.DataAccess.pdb
+D:\TatvaSoftInternship\TaskManager\Tasks.services\obj\Debug\net8.0\Tasks.services.csproj.AssemblyReference.cache
+D:\TatvaSoftInternship\TaskManager\Tasks.services\obj\Debug\net8.0\Tasks.se.7DB8EA65.Up2Date
