@@ -1,0 +1,17 @@
+D:\TatvaSoftInternship\BooksApi\BooksApi.Services\bin\Debug\net8.0\BooksApi.Services.deps.json
+D:\TatvaSoftInternship\BooksApi\BooksApi.Services\bin\Debug\net8.0\BooksApi.Services.dll
+D:\TatvaSoftInternship\BooksApi\BooksApi.Services\bin\Debug\net8.0\BooksApi.Services.pdb
+D:\TatvaSoftInternship\BooksApi\BooksApi.Services\bin\Debug\net8.0\BooksApi.Data.dll
+D:\TatvaSoftInternship\BooksApi\BooksApi.Services\bin\Debug\net8.0\BooksApi.Entities.dll
+D:\TatvaSoftInternship\BooksApi\BooksApi.Services\bin\Debug\net8.0\BooksApi.Data.pdb
+D:\TatvaSoftInternship\BooksApi\BooksApi.Services\bin\Debug\net8.0\BooksApi.Entities.pdb
+D:\TatvaSoftInternship\BooksApi\BooksApi.Services\obj\Debug\net8.0\BooksApi.Services.csproj.AssemblyReference.cache
+D:\TatvaSoftInternship\BooksApi\BooksApi.Services\obj\Debug\net8.0\BooksApi.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\TatvaSoftInternship\BooksApi\BooksApi.Services\obj\Debug\net8.0\BooksApi.Services.AssemblyInfoInputs.cache
+D:\TatvaSoftInternship\BooksApi\BooksApi.Services\obj\Debug\net8.0\BooksApi.Services.AssemblyInfo.cs
+D:\TatvaSoftInternship\BooksApi\BooksApi.Services\obj\Debug\net8.0\BooksApi.Services.csproj.CoreCompileInputs.cache
+D:\TatvaSoftInternship\BooksApi\BooksApi.Services\obj\Debug\net8.0\BooksApi.5EA205C6.Up2Date
+D:\TatvaSoftInternship\BooksApi\BooksApi.Services\obj\Debug\net8.0\BooksApi.Services.dll
+D:\TatvaSoftInternship\BooksApi\BooksApi.Services\obj\Debug\net8.0\refint\BooksApi.Services.dll
+D:\TatvaSoftInternship\BooksApi\BooksApi.Services\obj\Debug\net8.0\BooksApi.Services.pdb
+D:\TatvaSoftInternship\BooksApi\BooksApi.Services\obj\Debug\net8.0\ref\BooksApi.Services.dll
