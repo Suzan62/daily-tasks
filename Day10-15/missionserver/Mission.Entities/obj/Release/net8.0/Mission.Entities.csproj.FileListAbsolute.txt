@@ -1,0 +1,14 @@
+D:\TatvaSoftInternship\MissionServer\Mission.Entities\bin\Release\net8.0\Mission.Entities.deps.json
+D:\TatvaSoftInternship\MissionServer\Mission.Entities\bin\Release\net8.0\Mission.Entities.runtimeconfig.json
+D:\TatvaSoftInternship\MissionServer\Mission.Entities\bin\Release\net8.0\Mission.Entities.dll
+D:\TatvaSoftInternship\MissionServer\Mission.Entities\bin\Release\net8.0\Mission.Entities.pdb
+D:\TatvaSoftInternship\MissionServer\Mission.Entities\obj\Release\net8.0\Mission.Entities.csproj.AssemblyReference.cache
+D:\TatvaSoftInternship\MissionServer\Mission.Entities\obj\Release\net8.0\Mission.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\TatvaSoftInternship\MissionServer\Mission.Entities\obj\Release\net8.0\Mission.Entities.AssemblyInfoInputs.cache
+D:\TatvaSoftInternship\MissionServer\Mission.Entities\obj\Release\net8.0\Mission.Entities.AssemblyInfo.cs
+D:\TatvaSoftInternship\MissionServer\Mission.Entities\obj\Release\net8.0\Mission.Entities.csproj.CoreCompileInputs.cache
+D:\TatvaSoftInternship\MissionServer\Mission.Entities\obj\Release\net8.0\Mission.Entities.dll
+D:\TatvaSoftInternship\MissionServer\Mission.Entities\obj\Release\net8.0\refint\Mission.Entities.dll
+D:\TatvaSoftInternship\MissionServer\Mission.Entities\obj\Release\net8.0\Mission.Entities.pdb
+D:\TatvaSoftInternship\MissionServer\Mission.Entities\obj\Release\net8.0\Mission.Entities.genruntimeconfig.cache
+D:\TatvaSoftInternship\MissionServer\Mission.Entities\obj\Release\net8.0\ref\Mission.Entities.dll
